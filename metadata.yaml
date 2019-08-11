@@ -1,14 +1,17 @@
 _repo: The-Log-of-the-Water-Wagon-or-The-Cruise-of-the-Good-Ship-Lithia_60022
-_version: 0.1.0
+_version: 0.2.0
 contributor:
   illustrator:
     agent_name: Glackens, L. M. (Louis M.)
     alias: Glackens, Louis M.
-    birthdate: &id001 1866
+    birthdate: 1866
     deathdate: 1933
     gutenberg_agent_id: '50741'
     url: http://www.gutenberg.org/2009/agents/50741
     wikipedia: https://en.wikipedia.org/wiki/Louis_Glackens
+covers:
+- cover_type: archival
+  image_path: 60022-h/images/cover.jpg
 creator:
   authors:
   - agent_name: Gibson, W. C. (William Curtis)
@@ -18,12 +21,14 @@ creator:
     url: http://www.gutenberg.org/2009/agents/50740
   - agent_name: Taylor, Bert Leston
     alias: Taylor, B. L. (Bert Leston)
-    birthdate: *id001
+    birthdate: 1866
     deathdate: 1921
     gutenberg_agent_id: '34327'
     url: http://www.gutenberg.org/2009/agents/34327
     wikipedia: https://en.wikipedia.org/wiki/Bert_Leston_Taylor
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/60022#The-Log-of-the-Water-Wagon-or-The-Cruise-of-the-Good-Ship-Lithia
 gutenberg_issued: '2019-07-31'
 gutenberg_type: Text
 identifiers:
